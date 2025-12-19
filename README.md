@@ -15,7 +15,7 @@ Developer focused on web + automation + infra. I like anime, manga, and games.
 
 <div>
 <h2 align="center">🦊 ~ 𝔸𝕓𝕠𝕦𝕥 𝕞𝕖 ~ 🦊</h2>
-<img src="https://i.imgur.com/PKjxuan.gif" align="right" width="260">
+<img src="https://i.imgur.com/wIWYuHr.gif" align="right" width="300">
 
 <li><b>Name:</b> 0x8AA8</li>
 <li><b>Loves:</b> Anime, Manga and games ¯\_(ツ)_/¯</li>
